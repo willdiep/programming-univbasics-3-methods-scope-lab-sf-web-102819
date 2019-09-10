@@ -14,7 +14,7 @@ def link
 end
 
 def any_phrase(phrase)
-  a_phrase = 
+  a_phrase = phrase
   puts a_phrase
 end
 
