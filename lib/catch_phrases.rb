@@ -13,5 +13,8 @@ def link
 end
 
 def any_phrase(phrase)
-  phrase = 
+  a_phrase = phrase
+end
+
+any_phrase()
   
