@@ -10,10 +10,12 @@ end
 
 def link
   phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase
 end
 
 def any_phrase(phrase)
-  a_phrase = phrase
+  some_phrase = phrase
+  puts some_phrase
 end
 
 any_phrase("Do A Barrel Roll!")
